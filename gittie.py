@@ -12,3 +12,4 @@ def add(a, b):
 
 def shout():
     print('AAAAAAA')
+    print("Sháút")
