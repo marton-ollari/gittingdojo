@@ -8,3 +8,7 @@ def joke():
 
 def add(a, b):
     return a + b
+
+
+def shout():
+    print("SHouuut ")
